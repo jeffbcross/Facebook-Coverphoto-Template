@@ -2,6 +2,7 @@ Facebook Cover Photo Template
 =============================
 
 Contained within is a single PSD, template.psd, with all the guides and helpers you need to prototype cool photos utilizing Facebook's timeline profiles. The PSD contains:
+
  * A flat example image for context
  * A group with placeholders for the cover photo, including an empty layer to add your photo. The empty layer is grouped with a container so your photo will automatically be bound to the area.
  * A group with placeholders for the profile photo, also with an empty layer to add your photo.
@@ -22,11 +23,13 @@ To export the profile photo:
 Additional Information
 ----------------------
 **Profile Photo CSS Info**
+
  * Box around thumbnail has white (#fff) border, radius of 2px, 4 pixel border. 
  * Profile image itself is 125 x 125, but with border (not shadow) is 133 x 133
  * Outer shadow of 1px black at 75%.
 
 **Cover Photo CSS Info**
+
  * Photo has div overlay with inner border 1px solid, black at 25% opacity. Top border is black at 10% opacity.
  * Photo is cropped at 851 x 314
 
