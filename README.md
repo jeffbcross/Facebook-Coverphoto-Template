@@ -15,7 +15,7 @@ Export the cover photo:
  3. Using the marquee tool, select the entire area of the cover photo placeholder, using the guides placed around the edges.
  4. Edit > Copy Merged, File > New (dimensions of new file should be 851 by 314), paste, and save for web.
 
-To export the profile photo:
+Export the profile photo:
 ----------------------------
  1. Using the marquee tool, select the area of the "profile thumb placeholder" layer (125px x 125px) using the existing guides
  2. Edit > Copy Merged, File > New, paste, and save for web
